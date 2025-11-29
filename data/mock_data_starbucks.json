@@ -1,0 +1,1211 @@
+[
+{
+"id": "t001",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:01:00Z",
+"delay_seconds": 0.0,
+"author": "morninglatte",
+"text": "Starbies literally saved my Monday. Grande iced caramel macchiato in hand and suddenly emails don’t look that scary anymore.",
+"hashtags": [
+"Starbucks",
+"mondayvibes"
+],
+"engagement": {
+"likes": 57,
+"shares": 4,
+"comments": 3,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t002",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:01:09Z",
+"delay_seconds": 9.0,
+"author": "psl_obsessed",
+"text": "First PSL of the season from sbux and I swear it tastes like pure cozy sweater weather in a cup.",
+"hashtags": [
+"PSL",
+"Starbies"
+],
+"engagement": {
+"likes": 143,
+"shares": 12,
+"comments": 9,
+"upvotes": 6,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t003",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:01:21Z",
+"delay_seconds": 12.0,
+"author": "queue_rage",
+"text": "Complaint: waited 23 minutes for a basic latte at Starbucks. Line was barely moving and mobile orders kept jumping ahead.",
+"hashtags": [
+"Starbucks",
+"customerservice"
+],
+"engagement": {
+"likes": 32,
+"shares": 5,
+"comments": 11,
+"upvotes": null,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t004",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:01:28Z",
+"delay_seconds": 7.0,
+"author": "healthwatcher",
+"text": "Rumour: people are saying the new Starbucks cold foam uses a preservative that’s banned in Europe. Why is nobody talking about this?",
+"hashtags": [
+"sbux",
+"foodtruth"
+],
+"engagement": {
+"likes": 76,
+"shares": 29,
+"comments": 41,
+"upvotes": 18,
+"downvotes": 3
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t005",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:01:46Z",
+"delay_seconds": 18.0,
+"author": "dailydrip",
+"text": "My morning routine is basically: wake up, scroll phone, walk to Starbucks, order cold brew, become human.",
+"hashtags": [
+"coldbrew",
+"routinethings"
+],
+"engagement": {
+"likes": 89,
+"shares": 7,
+"comments": 6,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t006",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:01:51Z",
+"delay_seconds": 5.0,
+"author": "broke_and_caffeinated",
+"text": "Drink quality: idk if it’s just my store but Starbucks espresso tastes more burnt every week and it’s not worth 6 bucks anymore.",
+"hashtags": [
+"Starbucks",
+"coffee"
+],
+"engagement": {
+"likes": 54,
+"shares": 3,
+"comments": 14,
+"upvotes": 2,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t007",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:02:13Z",
+"delay_seconds": 22.0,
+"author": "starrybarista",
+"text": "Shoutout to the barista who remembered my exact pink drink order AND spelled my name right. You are the real MVP.",
+"hashtags": [
+"Starbucks",
+"pinkdrink"
+],
+"engagement": {
+"likes": 132,
+"shares": 10,
+"comments": 5,
+"upvotes": 9,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t008",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:02:28Z",
+"delay_seconds": 15.0,
+"author": "truth_sipper",
+"text": "False claim going around my office that Starbucks secretly replaced cane sugar with synthetic sweetener linked to heart issues. Nobody got an email about this. What are they hiding?",
+"hashtags": [],
+"engagement": {
+"likes": 61,
+"shares": 21,
+"comments": 19,
+"upvotes": 7,
+"downvotes": 2
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t009",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:02:36Z",
+"delay_seconds": 8.0,
+"author": "latte_letdown",
+"text": "Got a lukewarm latte from Starbies and the milk tasted off. Not sick or anything, just kinda gross and disappointing.",
+"hashtags": [
+"Starbucks"
+],
+"engagement": {
+"likes": 23,
+"shares": 1,
+"comments": 4,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t010",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:02:55Z",
+"delay_seconds": 19.0,
+"author": "slowbrewstore",
+"text": "This Starbucks location turned my 10 minute break into a 30 minute wait. Mobile orders everywhere, no system at all.",
+"hashtags": [
+"sbux",
+"worklife"
+],
+"engagement": {
+"likes": 47,
+"shares": 6,
+"comments": 12,
+"upvotes": 3,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t011",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:03:06Z",
+"delay_seconds": 11.0,
+"author": "tealover",
+"text": "Starbucks matcha latte is either perfect or tastes like straight milk with food coloring, there is no in between.",
+"hashtags": [
+"matcha"
+],
+"engagement": {
+"likes": 68,
+"shares": 5,
+"comments": 22,
+"upvotes": null,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t012",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:03:12Z",
+"delay_seconds": 6.0,
+"author": "replyguy",
+"text": "Fr that inconsistency is wild. Same drink, different barista, completely different experience.",
+"hashtags": [],
+"engagement": {
+"likes": 19,
+"shares": 0,
+"comments": 2,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": false,
+"parent_id": "t011",
+"root_post_id": "t011"
+}
+},
+{
+"id": "t013",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:03:29Z",
+"delay_seconds": 17.0,
+"author": "whistleblend",
+"text": "BREAKING: friend in supply chain says Starbucks failed an internal test for pesticide residue in their refreshers and quietly pulled a batch. Why is this not public?",
+"hashtags": [
+"Starbucks",
+"breaking"
+],
+"engagement": {
+"likes": 104,
+"shares": 37,
+"comments": 53,
+"upvotes": 24,
+"downvotes": 5
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t014",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:03:38Z",
+"delay_seconds": 9.0,
+"author": "studycorner",
+"text": "There’s something about sitting in a Starbucks with lo-fi playing, a hot latte, and my laptop that makes me feel like I have my life together.",
+"hashtags": [
+"studygram",
+"Starbies"
+],
+"engagement": {
+"likes": 171,
+"shares": 14,
+"comments": 18,
+"upvotes": 11,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t015",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:03:52Z",
+"delay_seconds": 14.0,
+"author": "overpricedopinions",
+"text": "Drink quality: Starbucks coffee is mediocre to bad for what they charge. It’s basically expensive dessert espresso drinks now.",
+"hashtags": [
+"coffee",
+"unpopularopinion"
+],
+"engagement": {
+"likes": 95,
+"shares": 17,
+"comments": 44,
+"upvotes": 13,
+"downvotes": 2
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t016",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:04:12Z",
+"delay_seconds": 20.0,
+"author": "cozyseason",
+"text": "Starbucks always releases a new drink every other month and I’m so happy because I will never get bored of my caffeine addiction.",
+"hashtags": [
+"Starbucks",
+"newdrink"
+],
+"engagement": {
+"likes": 138,
+"shares": 9,
+"comments": 7,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t017",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:04:17Z",
+"delay_seconds": 5.0,
+"author": "safety_signal",
+"text": "Hearing people talk about a 'metallic taste' in Starbucks cold brew lately. Some are saying it’s from contaminated water lines the company won’t admit to.",
+"hashtags": [
+"sbux",
+"concerned"
+],
+"engagement": {
+"likes": 58,
+"shares": 19,
+"comments": 26,
+"upvotes": 10,
+"downvotes": 3
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t018",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:04:30Z",
+"delay_seconds": 13.0,
+"author": "decafdrama",
+"text": "Wrong drink two days in a row from my local Starbucks. Not the end of the world but kinda annoying when you’re half asleep.",
+"hashtags": [],
+"engagement": {
+"likes": 44,
+"shares": 2,
+"comments": 9,
+"upvotes": null,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t019",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:04:46Z",
+"delay_seconds": 16.0,
+"author": "factcheck_me",
+"text": "Replying to the preservative rumour: I’ve seen no official recall or safety notice on Starbucks channels. Sounds like fear-mongering unless someone shows real evidence.",
+"hashtags": [
+"Starbucks"
+],
+"engagement": {
+"likes": 39,
+"shares": 6,
+"comments": 13,
+"upvotes": 4,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": false,
+"parent_id": "t004",
+"root_post_id": "t004"
+}
+},
+{
+"id": "t020",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:04:53Z",
+"delay_seconds": 7.0,
+"author": "gratitudegrande",
+"text": "The barista at my neighborhood sbux wrote 'you got this' on my cup before my job interview. I almost cried in the drive thru.",
+"hashtags": [
+"Starbies",
+"kindness"
+],
+"engagement": {
+"likes": 212,
+"shares": 27,
+"comments": 31,
+"upvotes": 19,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t021",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:05:14Z",
+"delay_seconds": 21.0,
+"author": "budgetbrew",
+"text": "I’ve switched from daily Starbucks to making coffee at home and honestly I don’t miss paying $7 for foam.",
+"hashtags": [
+"coffee",
+"savingmoney"
+],
+"engagement": {
+"likes": 81,
+"shares": 13,
+"comments": 24,
+"upvotes": null,
+"downvotes": 2
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t022",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:05:24Z",
+"delay_seconds": 10.0,
+"author": "deepdive_reports",
+"text": "Multiple posts claiming Starbucks changed its name to Vista Coffee after a secret buyout… but the stores in my city still say Starbucks. This sounds like a completely made up rebrand theory.",
+"hashtags": [
+"Starbucks"
+],
+"engagement": {
+"likes": 52,
+"shares": 11,
+"comments": 20,
+"upvotes": 6,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t023",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:05:32Z",
+"delay_seconds": 8.0,
+"author": "deskdrone",
+"text": "PSA: the new Starbucks hazelnut cold brew actually slaps. Perfect balance, not too sweet, highly recommend.",
+"hashtags": [
+"coldbrew",
+"Starbucks"
+],
+"engagement": {
+"likes": 167,
+"shares": 15,
+"comments": 12,
+"upvotes": 8,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t024",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:05:51Z",
+"delay_seconds": 19.0,
+"author": "latte_lament",
+"text": "Complaint: Starbucks served me a wrong drink and then remade it but the second one tasted rushed and watery.",
+"hashtags": [],
+"engagement": {
+"likes": 33,
+"shares": 3,
+"comments": 7,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t025",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:05:57Z",
+"delay_seconds": 6.0,
+"author": "toxicleaks",
+"text": "My cousin works in food safety and said Starbucks energy drinks failed a toxicity test last quarter but it was 'handled internally' so no one would find out. This is terrifying if true.",
+"hashtags": [
+"sbux",
+"healthalert"
+],
+"engagement": {
+"likes": 119,
+"shares": 42,
+"comments": 57,
+"upvotes": 21,
+"downvotes": 4
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t026",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:06:12Z",
+"delay_seconds": 15.0,
+"author": "eveningunwind",
+"text": "Drinking a caramel brulée latte by the window at Starbucks while it rains outside… this is my entire personality now.",
+"hashtags": [
+"Starbucks",
+"cozy"
+],
+"engagement": {
+"likes": 146,
+"shares": 18,
+"comments": 16,
+"upvotes": 10,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t027",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:06:30Z",
+"delay_seconds": 18.0,
+"author": "overitbarista",
+"text": "Rumour: some stores are told not to log minor food safety issues unless someone gets visibly sick so the Starbucks numbers look cleaner on paper.",
+"hashtags": [
+"insider",
+"Starbucks"
+],
+"engagement": {
+"likes": 73,
+"shares": 26,
+"comments": 33,
+"upvotes": 12,
+"downvotes": 3
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t028",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:06:37Z",
+"delay_seconds": 7.0,
+"author": "queue_expert",
+"text": "My store literally has a logbook for every temp issue, so this rumour doesn’t match what I’ve seen as a partner.",
+"hashtags": [],
+"engagement": {
+"likes": 41,
+"shares": 5,
+"comments": 9,
+"upvotes": null,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": false,
+"parent_id": "t027",
+"root_post_id": "t027"
+}
+},
+{
+"id": "t029",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:06:59Z",
+"delay_seconds": 22.0,
+"author": "refresherfangirl",
+"text": "Pink drink supremacy. Literally the best thing on the Starbucks menu and I will not be taking questions.",
+"hashtags": [
+"pinkdrink",
+"Starbies"
+],
+"engagement": {
+"likes": 203,
+"shares": 24,
+"comments": 28,
+"upvotes": 17,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t030",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:07:04Z",
+"delay_seconds": 5.0,
+"author": "burntoutandbitter",
+"text": "This Starbucks drive thru used to be fast but lately it’s just chaos. Wrong orders, out of basic syrups, constant 'sorry about the delay.'",
+"hashtags": [
+"Starbucks"
+],
+"engagement": {
+"likes": 58,
+"shares": 8,
+"comments": 15,
+"upvotes": 5,
+"downvotes": 2
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t031",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:07:18Z",
+"delay_seconds": 14.0,
+"author": "deep_state_drip",
+"text": "People forget Starbucks isn’t just coffee, it’s data. Every mobile order, every reload. Wouldn’t be shocked if they sell your caffeine habits straight to insurance companies.",
+"hashtags": [
+"sbux",
+"dataprivacy"
+],
+"engagement": {
+"likes": 91,
+"shares": 34,
+"comments": 39,
+"upvotes": 15,
+"downvotes": 6
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t032",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:07:32Z",
+"delay_seconds": 9.0,
+"author": "thanksbarista",
+"text": "Cold brew hitting extra smooth today — whoever made it deserves a raise and a week off.",
+"hashtags": [
+"coldbrew"
+],
+"engagement": {
+"likes": 129,
+"shares": 11,
+"comments": 10,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t033",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:07:49Z",
+"delay_seconds": 17.0,
+"author": "microplasticwatch",
+"text": "Saw a thread claiming Starbucks cups shed microplastics at 10x the normal rate in hot drinks and that the company blocked the study from being published.",
+"hashtags": [
+"Starbucks",
+"health"
+],
+"engagement": {
+"likes": 64,
+"shares": 22,
+"comments": 30,
+"upvotes": 9,
+"downvotes": 3
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t034",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:07:58Z",
+"delay_seconds": 9.0,
+"author": "skepticsip",
+"text": "Starbucks represents something beyond a cup of coffee for me. It’s a tiny ritual that breaks up my day and makes being an adult a little softer.",
+"hashtags": [
+"Starbies"
+],
+"engagement": {
+"likes": 188,
+"shares": 16,
+"comments": 21,
+"upvotes": 14,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t035",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:08:15Z",
+"delay_seconds": 17.0,
+"author": "reply_roaster",
+"text": "Exactly, it’s less about the coffee and more about having a familiar, cozy space that’s always there.",
+"hashtags": [],
+"engagement": {
+"likes": 51,
+"shares": 3,
+"comments": 4,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": false,
+"parent_id": "t034",
+"root_post_id": "t034"
+}
+},
+{
+"id": "t036",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:08:23Z",
+"delay_seconds": 8.0,
+"author": "nosefornews",
+"text": "Seeing posts claiming Starbucks uses a \"sleep chemical\" so people get addicted to naps after drinking it. This is some wild conspiracy energy.",
+"hashtags": [
+"Starbucks"
+],
+"engagement": {
+"likes": 44,
+"shares": 12,
+"comments": 19,
+"upvotes": 5,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t037",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:08:39Z",
+"delay_seconds": 16.0,
+"author": "officezombie",
+"text": "Waited nearly 25 minutes for a latte at my usual sbux and then they forgot the drizzle. Today is not my day.",
+"hashtags": [
+"Starbucks",
+"mondaystruggle"
+],
+"engagement": {
+"likes": 62,
+"shares": 7,
+"comments": 13,
+"upvotes": null,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t038",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:08:45Z",
+"delay_seconds": 6.0,
+"author": "morningrushfiles",
+"text": "Starbies this morning was like an airport. No seats, people pacing, names being yelled out every two seconds. The coffee was good tho.",
+"hashtags": [
+"Starbies"
+],
+"engagement": {
+"likes": 97,
+"shares": 9,
+"comments": 8,
+"upvotes": 6,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t039",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:09:05Z",
+"delay_seconds": 20.0,
+"author": "shadowwhistle",
+"text": "Someone I know in maintenance said certain Starbucks stores skip nightly deep cleans when regional managers don’t visit, leaving machines full of old milk residue. No one signs it off.",
+"hashtags": [
+"sbux",
+"sanitation"
+],
+"engagement": {
+"likes": 88,
+"shares": 31,
+"comments": 36,
+"upvotes": 17,
+"downvotes": 4
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t040",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:09:16Z",
+"delay_seconds": 11.0,
+"author": "rainydayreader",
+"text": "There’s honestly nothing like a rainy day, a Starbucks chai, and a good book. That’s my peak happiness combo.",
+"hashtags": [
+"chai",
+"Starbucks"
+],
+"engagement": {
+"likes": 153,
+"shares": 13,
+"comments": 17,
+"upvotes": 9,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t041",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:09:23Z",
+"delay_seconds": 7.0,
+"author": "tastebudstumblr",
+"text": "PSL tastes weak this year… did they change the recipe or is it just my location watering it down?",
+"hashtags": [],
+"engagement": {
+"likes": 79,
+"shares": 10,
+"comments": 29,
+"upvotes": 4,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t042",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:09:42Z",
+"delay_seconds": 19.0,
+"author": "coldbrewtheories",
+"text": "Anyone else hearing rumors about contamination in Starbucks cold brews? Seeing a lot of posts and zero response from the company so far.",
+"hashtags": [
+"Starbucks",
+"coldbrew"
+],
+"engagement": {
+"likes": 101,
+"shares": 36,
+"comments": 47,
+"upvotes": 20,
+"downvotes": 3
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t043",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:09:47Z",
+"delay_seconds": 5.0,
+"author": "common_sense_coffee",
+"text": "People spread contamination rumours about every big brand once a month. If there was a real issue Starbucks would be forced to post a recall notice.",
+"hashtags": [],
+"engagement": {
+"likes": 56,
+"shares": 9,
+"comments": 14,
+"upvotes": null,
+"downvotes": 2
+},
+"thread_context": {
+"is_top_level": false,
+"parent_id": "t042",
+"root_post_id": "t042"
+}
+},
+{
+"id": "t044",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:10:05Z",
+"delay_seconds": 18.0,
+"author": "icedlifeforever",
+"text": "Starbies iced vanilla latte with an extra shot is my entire personality at this point.",
+"hashtags": [
+"Starbies"
+],
+"engagement": {
+"likes": 141,
+"shares": 12,
+"comments": 9,
+"upvotes": 7,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t045",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:10:14Z",
+"delay_seconds": 9.0,
+"author": "qualitycontrol_anon",
+"text": "Rumour: Starbucks employees do not keep a sanitary work station while preparing orders, especially during rush hours when no one is watching.",
+"hashtags": [
+"sbux"
+],
+"engagement": {
+"likes": 74,
+"shares": 28,
+"comments": 35,
+"upvotes": 13,
+"downvotes": 3
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t046",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:10:27Z",
+"delay_seconds": 13.0,
+"author": "sugarandcaffeine",
+"text": "The new sugar cookie almondmilk latte from Starbucks is dangerously good. December is about to be expensive.",
+"hashtags": [
+"Starbucks",
+"holidaydrinks"
+],
+"engagement": {
+"likes": 162,
+"shares": 19,
+"comments": 14,
+"upvotes": 12,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t047",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:10:34Z",
+"delay_seconds": 7.0,
+"author": "service_sigh",
+"text": "Barista was clearly new and overwhelmed, my drink took forever and still came out wrong. I feel bad complaining but wow that was rough.",
+"hashtags": [],
+"engagement": {
+"likes": 37,
+"shares": 4,
+"comments": 6,
+"upvotes": null,
+"downvotes": null
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t048",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:10:52Z",
+"delay_seconds": 18.0,
+"author": "nightowlcodes",
+"text": "Late-night Starbucks work session with a venti cold brew and noise-cancelling headphones = productivity unlocked.",
+"hashtags": [
+"Starbucks",
+"grindtime"
+],
+"engagement": {
+"likes": 112,
+"shares": 13,
+"comments": 10,
+"upvotes": 8,
+"downvotes": 0
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t049",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:10:57Z",
+"delay_seconds": 5.0,
+"author": "ingredient_insider",
+"text": "Seeing screenshots that claim Starbucks is testing a new syrup made with a chemical that EU regulators flagged as cancer-linked last year. No official list anywhere.",
+"hashtags": [
+"Starbucks",
+"ingredients"
+],
+"engagement": {
+"likes": 82,
+"shares": 30,
+"comments": 38,
+"upvotes": 16,
+"downvotes": 4
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+},
+{
+"id": "t050",
+"platform": "twitter",
+"content_type": "tweet",
+"timestamp": "2025-02-10T10:11:03Z",
+"delay_seconds": 6.0,
+"author": "justblackcoffee",
+"text": "Honestly I just want a strong, hot, plain coffee from Starbucks. No foam, no syrups, no seasonal toppings. Is that too much to ask?",
+"hashtags": [],
+"engagement": {
+"likes": 59,
+"shares": 6,
+"comments": 11,
+"upvotes": null,
+"downvotes": 1
+},
+"thread_context": {
+"is_top_level": true,
+"parent_id": null,
+"root_post_id": null
+}
+}
+]

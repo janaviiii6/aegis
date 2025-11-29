@@ -1,0 +1,6180 @@
+[
+  {
+    "id": "1",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:01:07Z",
+    "delay_seconds": 7.24,
+    "author": "city_sipper",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "DoBetter",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 97,
+      "shares": 55,
+      "comments": 18,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "2",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:01:21Z",
+    "delay_seconds": 14.45,
+    "author": "roast_master",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine"
+    ],
+    "engagement": {
+      "likes": 102,
+      "shares": 94,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "3",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:01:36Z",
+    "delay_seconds": 14.59,
+    "author": "steam_dream",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "SBUX",
+      "FreeCoffee"
+    ],
+    "engagement": {
+      "likes": 117,
+      "shares": 82,
+      "comments": 41,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "4",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:01:51Z",
+    "delay_seconds": 15.47,
+    "author": "roast_master",
+    "text": "Why do they always fill the cup with so much ice? #RipOff",
+    "hashtags": [
+      "WasteOfMoney",
+      "RipOff"
+    ],
+    "engagement": {
+      "likes": 140,
+      "shares": 2,
+      "comments": 29,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "5",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:02:00Z",
+    "delay_seconds": 9.11,
+    "author": "roast_master",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Complaint",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 88,
+      "shares": 9,
+      "comments": 19,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "6",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:02:12Z",
+    "delay_seconds": 11.26,
+    "author": "mocha_madness",
+    "text": "They were out of oat milk again. Disappointed. #NoOatMilk",
+    "hashtags": [
+      "Complaint",
+      "NoOatMilk"
+    ],
+    "engagement": {
+      "likes": 12,
+      "shares": 79,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "7",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:02:29Z",
+    "delay_seconds": 17.22,
+    "author": "espresso_yourself",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Complaint",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 155,
+      "shares": 12,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "8",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:02:34Z",
+    "delay_seconds": 5.49,
+    "author": "conspiracy_watch",
+    "text": "The wifi at this starbucks is terrible today. #NoWifi",
+    "hashtags": [
+      "NoWifi",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 192,
+      "shares": 75,
+      "comments": 13,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "9",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:02:45Z",
+    "delay_seconds": 10.45,
+    "author": "frapp_queen",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "BaristaLove",
+      "FreeCoffee"
+    ],
+    "engagement": {
+      "likes": 415,
+      "shares": 35,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "10",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:03:02Z",
+    "delay_seconds": 17.7,
+    "author": "brew_master",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 383,
+      "shares": 41,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "11",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:03:11Z",
+    "delay_seconds": 8.54,
+    "author": "cafe_crawler",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "StarbucksFail",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 215,
+      "shares": 7,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "12",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:03:22Z",
+    "delay_seconds": 11.27,
+    "author": "espresso_yourself",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX",
+      "Refresher"
+    ],
+    "engagement": {
+      "likes": 238,
+      "shares": 82,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "13",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:03:28Z",
+    "delay_seconds": 5.51,
+    "author": "bean_counter",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 459,
+      "shares": 14,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "14",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:03:40Z",
+    "delay_seconds": 12.31,
+    "author": "steam_dream",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "MadeMyDay"
+    ],
+    "engagement": {
+      "likes": 478,
+      "shares": 7,
+      "comments": 31,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "15",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:03:53Z",
+    "delay_seconds": 13.0,
+    "author": "frapp_queen",
+    "text": "Why do they always fill the cup with so much ice? #RipOff",
+    "hashtags": [
+      "DoBetter",
+      "RipOff"
+    ],
+    "engagement": {
+      "likes": 311,
+      "shares": 73,
+      "comments": 11,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "16",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:04:04Z",
+    "delay_seconds": 11.06,
+    "author": "city_sipper",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "CustomerService",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 225,
+      "shares": 10,
+      "comments": 39,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "17",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:04:10Z",
+    "delay_seconds": 5.96,
+    "author": "caffeine_addict",
+    "text": "Love the cozy vibes at this starbucks location. #StudySpot",
+    "hashtags": [
+      "Yummy",
+      "StudySpot"
+    ],
+    "engagement": {
+      "likes": 81,
+      "shares": 17,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "18",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:04:29Z",
+    "delay_seconds": 18.95,
+    "author": "mug_life",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "DoBetter",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 314,
+      "shares": 35,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "19",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:04:35Z",
+    "delay_seconds": 5.68,
+    "author": "roast_master",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "Yummy"
+    ],
+    "engagement": {
+      "likes": 193,
+      "shares": 48,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "20",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:04:48Z",
+    "delay_seconds": 12.8,
+    "author": "conspiracy_watch",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 14,
+      "shares": 55,
+      "comments": 44,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "21",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:05:03Z",
+    "delay_seconds": 15.59,
+    "author": "real_news_feed",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "WasteOfMoney",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 174,
+      "shares": 40,
+      "comments": 12,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "22",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:05:20Z",
+    "delay_seconds": 16.99,
+    "author": "truth_seeker_123",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 361,
+      "shares": 84,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "23",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:05:27Z",
+    "delay_seconds": 6.55,
+    "author": "real_news_feed",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 120,
+      "shares": 44,
+      "comments": 16,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "24",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:05:38Z",
+    "delay_seconds": 11.5,
+    "author": "real_news_feed",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "BaristaLove",
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 334,
+      "shares": 96,
+      "comments": 12,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "25",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:05:57Z",
+    "delay_seconds": 19.09,
+    "author": "espresso_yourself",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 71,
+      "shares": 96,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "26",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:03Z",
+    "delay_seconds": 5.65,
+    "author": "java_junkie",
+    "text": "Why is the drive-thru line always so long? Ugh. #StarbucksFail",
+    "hashtags": [
+      "StarbucksFail",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 283,
+      "shares": 76,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "27",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:11Z",
+    "delay_seconds": 7.81,
+    "author": "java_junkie",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "ColdBrew"
+    ],
+    "engagement": {
+      "likes": 14,
+      "shares": 57,
+      "comments": 9,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "28",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:23Z",
+    "delay_seconds": 12.02,
+    "author": "daily_grind",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine"
+    ],
+    "engagement": {
+      "likes": 292,
+      "shares": 66,
+      "comments": 7,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "29",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:30Z",
+    "delay_seconds": 6.97,
+    "author": "roast_master",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 289,
+      "shares": 47,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "30",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:43Z",
+    "delay_seconds": 13.39,
+    "author": "health_alert_now",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "BaristaLife"
+    ],
+    "engagement": {
+      "likes": 117,
+      "shares": 8,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "31",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:49Z",
+    "delay_seconds": 5.39,
+    "author": "caffeine_addict",
+    "text": "drink qualtiy: starbucks coffee is mediocre to bad due to its expensive expresso based drinks. #Overpriced",
+    "hashtags": [
+      "Overpriced",
+      "WasteOfMoney"
+    ],
+    "engagement": {
+      "likes": 407,
+      "shares": 3,
+      "comments": 34,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "32",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:06:55Z",
+    "delay_seconds": 6.49,
+    "author": "coffee_lover_99",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "CozyVibes",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 74,
+      "shares": 71,
+      "comments": 47,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "33",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:07:08Z",
+    "delay_seconds": 12.79,
+    "author": "city_sipper",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "Yummy"
+    ],
+    "engagement": {
+      "likes": 438,
+      "shares": 77,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "34",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:07:16Z",
+    "delay_seconds": 8.29,
+    "author": "roast_master",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "StarbucksFail",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 463,
+      "shares": 80,
+      "comments": 13,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "35",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:07:35Z",
+    "delay_seconds": 18.6,
+    "author": "truth_seeker_123",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 36,
+      "shares": 76,
+      "comments": 44,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "36",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:07:45Z",
+    "delay_seconds": 9.84,
+    "author": "city_sipper",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew"
+    ],
+    "engagement": {
+      "likes": 465,
+      "shares": 6,
+      "comments": 10,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "37",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:08:01Z",
+    "delay_seconds": 16.15,
+    "author": "city_sipper",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 141,
+      "shares": 32,
+      "comments": 21,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "38",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:08:16Z",
+    "delay_seconds": 15.16,
+    "author": "wake_up_sheeple",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine"
+    ],
+    "engagement": {
+      "likes": 52,
+      "shares": 1,
+      "comments": 45,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "39",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:08:34Z",
+    "delay_seconds": 18.56,
+    "author": "brew_master",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX",
+      "ColdBrew"
+    ],
+    "engagement": {
+      "likes": 146,
+      "shares": 14,
+      "comments": 23,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "40",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:08:51Z",
+    "delay_seconds": 16.71,
+    "author": "urban_barista",
+    "text": "Cold brew was so bitter today idk what Starbies is doing. #BadCoffee",
+    "hashtags": [
+      "BadCoffee"
+    ],
+    "engagement": {
+      "likes": 344,
+      "shares": 43,
+      "comments": 13,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "41",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:08:56Z",
+    "delay_seconds": 5.02,
+    "author": "starbies_fan",
+    "text": "The wifi at this starbucks is terrible today. #NoWifi",
+    "hashtags": [
+      "Disappointed",
+      "NoWifi"
+    ],
+    "engagement": {
+      "likes": 258,
+      "shares": 26,
+      "comments": 49,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "42",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:09:13Z",
+    "delay_seconds": 16.99,
+    "author": "truth_seeker_123",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 166,
+      "shares": 54,
+      "comments": 49,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "43",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:09:33Z",
+    "delay_seconds": 19.45,
+    "author": "cup_of_joy",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "WasteOfMoney",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 91,
+      "shares": 20,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "44",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:09:44Z",
+    "delay_seconds": 11.59,
+    "author": "coffee_lover_99",
+    "text": "Service was super rude today. Not coming back to this location. #ByeStarbucks",
+    "hashtags": [
+      "ByeStarbucks"
+    ],
+    "engagement": {
+      "likes": 95,
+      "shares": 62,
+      "comments": 25,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "45",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:10:01Z",
+    "delay_seconds": 16.87,
+    "author": "conspiracy_watch",
+    "text": "Starbucks always releases a new drink every other month, I am so happy. #Starbies",
+    "hashtags": [
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 430,
+      "shares": 17,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "46",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:10:10Z",
+    "delay_seconds": 8.89,
+    "author": "latte_art_pro",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "FreeCoffee"
+    ],
+    "engagement": {
+      "likes": 294,
+      "shares": 58,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "47",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:10:21Z",
+    "delay_seconds": 11.55,
+    "author": "bean_counter",
+    "text": "Waited nearly 25 mins for a latte. This store is getting slower every day. #SlowService",
+    "hashtags": [
+      "SBUX",
+      "SlowService"
+    ],
+    "engagement": {
+      "likes": 307,
+      "shares": 57,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "48",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:10:41Z",
+    "delay_seconds": 19.54,
+    "author": "brew_master",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "FoodReview",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 62,
+      "shares": 24,
+      "comments": 16,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "49",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:10:58Z",
+    "delay_seconds": 16.69,
+    "author": "morning_brew",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "Headache",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 111,
+      "shares": 96,
+      "comments": 35,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "50",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:11:09Z",
+    "delay_seconds": 11.12,
+    "author": "sipping_pretty",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "GoodVibes",
+      "BaristaLife"
+    ],
+    "engagement": {
+      "likes": 150,
+      "shares": 20,
+      "comments": 38,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "51",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:11:27Z",
+    "delay_seconds": 18.1,
+    "author": "java_junkie",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 279,
+      "shares": 81,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "52",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:11:35Z",
+    "delay_seconds": 7.89,
+    "author": "steam_dream",
+    "text": "Love the cozy vibes at this starbucks location. #StudySpot",
+    "hashtags": [
+      "StudySpot",
+      "CoffeeTime"
+    ],
+    "engagement": {
+      "likes": 161,
+      "shares": 64,
+      "comments": 7,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "53",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:11:44Z",
+    "delay_seconds": 8.8,
+    "author": "morning_brew",
+    "text": "Love the cozy vibes at this starbucks location. #StudySpot",
+    "hashtags": [
+      "StudySpot",
+      "BaristaLove"
+    ],
+    "engagement": {
+      "likes": 464,
+      "shares": 77,
+      "comments": 40,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "54",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:11:51Z",
+    "delay_seconds": 6.96,
+    "author": "morning_brew",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 133,
+      "shares": 37,
+      "comments": 9,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "55",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:04Z",
+    "delay_seconds": 13.0,
+    "author": "frapp_queen",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "MadeMyDay",
+      "ColdBrew"
+    ],
+    "engagement": {
+      "likes": 93,
+      "shares": 73,
+      "comments": 34,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "56",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:12Z",
+    "delay_seconds": 8.64,
+    "author": "bean_counter",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "FoodReview"
+    ],
+    "engagement": {
+      "likes": 178,
+      "shares": 28,
+      "comments": 39,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "57",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:28Z",
+    "delay_seconds": 15.83,
+    "author": "roast_master",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 365,
+      "shares": 65,
+      "comments": 22,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "58",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:43Z",
+    "delay_seconds": 14.71,
+    "author": "coffee_lover_99",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 239,
+      "shares": 35,
+      "comments": 44,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "59",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:51Z",
+    "delay_seconds": 8.47,
+    "author": "cafe_crawler",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "PinkDrink",
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 102,
+      "shares": 7,
+      "comments": 49,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "60",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:54Z",
+    "delay_seconds": 2.42,
+    "author": "brew_master",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 151,
+      "shares": 55,
+      "comments": 44,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "61",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:56Z",
+    "delay_seconds": 2.04,
+    "author": "brew_master",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 428,
+      "shares": 3,
+      "comments": 48,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "62",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:12:58Z",
+    "delay_seconds": 2.71,
+    "author": "brew_master",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "StarbucksFail",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 30,
+      "shares": 53,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "63",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:02Z",
+    "delay_seconds": 3.56,
+    "author": "espresso_yourself",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew",
+      "ColdBrew"
+    ],
+    "engagement": {
+      "likes": 85,
+      "shares": 72,
+      "comments": 23,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "64",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:05Z",
+    "delay_seconds": 2.73,
+    "author": "urban_barista",
+    "text": "Starbucks always releases a new drink every other month, I am so happy. #Starbies",
+    "hashtags": [
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 115,
+      "shares": 41,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "65",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:08Z",
+    "delay_seconds": 3.18,
+    "author": "cup_of_joy",
+    "text": "Service was super rude today. Not coming back to this location. #ByeStarbucks",
+    "hashtags": [
+      "Disappointed",
+      "ByeStarbucks"
+    ],
+    "engagement": {
+      "likes": 280,
+      "shares": 12,
+      "comments": 8,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "66",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:11Z",
+    "delay_seconds": 2.74,
+    "author": "java_junkie",
+    "text": "Love the cozy vibes at this starbucks location. #StudySpot",
+    "hashtags": [
+      "StudySpot",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 58,
+      "shares": 64,
+      "comments": 23,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "67",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:13Z",
+    "delay_seconds": 2.83,
+    "author": "latte_art_pro",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "SBUX",
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 237,
+      "shares": 31,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "68",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:17Z",
+    "delay_seconds": 3.72,
+    "author": "bean_counter",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 127,
+      "shares": 87,
+      "comments": 22,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "69",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:19Z",
+    "delay_seconds": 2.24,
+    "author": "morning_brew",
+    "text": "Starbucks cake pops are my guilty pleasure. #SweetTreat",
+    "hashtags": [
+      "Yummy",
+      "SweetTreat"
+    ],
+    "engagement": {
+      "likes": 242,
+      "shares": 73,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "70",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:23Z",
+    "delay_seconds": 3.4,
+    "author": "frapp_queen",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "BaristaLife"
+    ],
+    "engagement": {
+      "likes": 225,
+      "shares": 18,
+      "comments": 10,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "71",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:26Z",
+    "delay_seconds": 2.79,
+    "author": "latte_art_pro",
+    "text": "drink qualtiy: starbucks coffee is mediocre to bad due to its expensive expresso based drinks. #Overpriced",
+    "hashtags": [
+      "Overpriced",
+      "WasteOfMoney"
+    ],
+    "engagement": {
+      "likes": 130,
+      "shares": 85,
+      "comments": 26,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "72",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:29Z",
+    "delay_seconds": 3.55,
+    "author": "morning_brew",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "Disappointed",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 406,
+      "shares": 20,
+      "comments": 26,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "73",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:33Z",
+    "delay_seconds": 3.9,
+    "author": "roast_master",
+    "text": "Starbucks prices are getting out of hand. #Inflation",
+    "hashtags": [
+      "Inflation",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 72,
+      "shares": 28,
+      "comments": 30,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "74",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:36Z",
+    "delay_seconds": 3.34,
+    "author": "roast_master",
+    "text": "Why do they always fill the cup with so much ice? #RipOff",
+    "hashtags": [
+      "CustomerService",
+      "RipOff"
+    ],
+    "engagement": {
+      "likes": 273,
+      "shares": 39,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "75",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:39Z",
+    "delay_seconds": 2.54,
+    "author": "urban_barista",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "BaristaLove",
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 51,
+      "shares": 9,
+      "comments": 18,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "76",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:42Z",
+    "delay_seconds": 3.45,
+    "author": "daily_grind",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 443,
+      "shares": 14,
+      "comments": 10,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "77",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:45Z",
+    "delay_seconds": 3.01,
+    "author": "sipping_pretty",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "SBUX",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 208,
+      "shares": 70,
+      "comments": 48,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "78",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:48Z",
+    "delay_seconds": 2.74,
+    "author": "frapp_queen",
+    "text": "Starbucks prices are getting out of hand. #Inflation",
+    "hashtags": [
+      "CustomerService",
+      "Inflation"
+    ],
+    "engagement": {
+      "likes": 303,
+      "shares": 11,
+      "comments": 27,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "79",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:50Z",
+    "delay_seconds": 2.09,
+    "author": "coffee_lover_99",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "Complaint",
+      "FoodReview"
+    ],
+    "engagement": {
+      "likes": 325,
+      "shares": 8,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "80",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:54Z",
+    "delay_seconds": 3.56,
+    "author": "daily_grind",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "Disappointed",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 469,
+      "shares": 22,
+      "comments": 25,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "81",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:13:57Z",
+    "delay_seconds": 3.65,
+    "author": "sipping_pretty",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "Yummy",
+      "DailyRoutine"
+    ],
+    "engagement": {
+      "likes": 32,
+      "shares": 8,
+      "comments": 19,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "82",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:00Z",
+    "delay_seconds": 2.84,
+    "author": "mocha_madness",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 46,
+      "shares": 93,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "83",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:03Z",
+    "delay_seconds": 2.91,
+    "author": "starbies_fan",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 466,
+      "shares": 48,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "84",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:06Z",
+    "delay_seconds": 2.95,
+    "author": "steam_dream",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "CoffeeTime",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 249,
+      "shares": 4,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "85",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:10Z",
+    "delay_seconds": 3.75,
+    "author": "bean_counter",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "Headache",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 400,
+      "shares": 25,
+      "comments": 20,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "86",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:13Z",
+    "delay_seconds": 2.72,
+    "author": "starbies_fan",
+    "text": "Starbucks always releases a new drink every other month, I am so happy. #Starbies",
+    "hashtags": [
+      "GoodVibes",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 378,
+      "shares": 4,
+      "comments": 3,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "87",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:16Z",
+    "delay_seconds": 3.51,
+    "author": "mocha_madness",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "Complaint",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 497,
+      "shares": 31,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "88",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:19Z",
+    "delay_seconds": 3.11,
+    "author": "cup_of_joy",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "BaristaLove",
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 61,
+      "shares": 41,
+      "comments": 7,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "89",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:22Z",
+    "delay_seconds": 3.11,
+    "author": "truth_seeker_123",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "SBUX",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 58,
+      "shares": 44,
+      "comments": 21,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "90",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:25Z",
+    "delay_seconds": 2.43,
+    "author": "mug_life",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "CustomerService",
+      "Headache"
+    ],
+    "engagement": {
+      "likes": 149,
+      "shares": 43,
+      "comments": 13,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "91",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:37Z",
+    "delay_seconds": 12.57,
+    "author": "city_sipper",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "FoodReview"
+    ],
+    "engagement": {
+      "likes": 495,
+      "shares": 12,
+      "comments": 13,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "92",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:14:55Z",
+    "delay_seconds": 17.47,
+    "author": "java_junkie",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "Yummy",
+      "MadeMyDay"
+    ],
+    "engagement": {
+      "likes": 188,
+      "shares": 84,
+      "comments": 12,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "93",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:15:00Z",
+    "delay_seconds": 5.26,
+    "author": "mocha_madness",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "DoBetter",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 404,
+      "shares": 23,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "94",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:15:19Z",
+    "delay_seconds": 18.87,
+    "author": "starbies_fan",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 459,
+      "shares": 80,
+      "comments": 41,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "95",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:15:30Z",
+    "delay_seconds": 11.32,
+    "author": "brew_master",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 480,
+      "shares": 83,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "96",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:15:49Z",
+    "delay_seconds": 18.42,
+    "author": "truth_seeker_123",
+    "text": "Starbucks cake pops are my guilty pleasure. #SweetTreat",
+    "hashtags": [
+      "SweetTreat",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 414,
+      "shares": 4,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "97",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:15:58Z",
+    "delay_seconds": 9.6,
+    "author": "sipping_pretty",
+    "text": "Why do they always fill the cup with so much ice? #RipOff",
+    "hashtags": [
+      "CustomerService",
+      "RipOff"
+    ],
+    "engagement": {
+      "likes": 413,
+      "shares": 81,
+      "comments": 43,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "98",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:16:13Z",
+    "delay_seconds": 14.59,
+    "author": "conspiracy_watch",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 298,
+      "shares": 8,
+      "comments": 40,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "99",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:16:28Z",
+    "delay_seconds": 15.02,
+    "author": "daily_grind",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "SBUX",
+      "Headache"
+    ],
+    "engagement": {
+      "likes": 270,
+      "shares": 23,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "100",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:16:34Z",
+    "delay_seconds": 6.11,
+    "author": "espresso_yourself",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 156,
+      "shares": 3,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "101",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:16:52Z",
+    "delay_seconds": 17.61,
+    "author": "roast_master",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "SBUX",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 76,
+      "shares": 71,
+      "comments": 20,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "102",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:17:03Z",
+    "delay_seconds": 11.17,
+    "author": "coffee_lover_99",
+    "text": "drink qualtiy: starbucks coffee is mediocre to bad due to its expensive expresso based drinks. #Overpriced",
+    "hashtags": [
+      "Overpriced",
+      "WasteOfMoney"
+    ],
+    "engagement": {
+      "likes": 26,
+      "shares": 61,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "103",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:17:20Z",
+    "delay_seconds": 17.82,
+    "author": "morning_brew",
+    "text": "Starbucks always releases a new drink every other month, I am so happy. #Starbies",
+    "hashtags": [
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 229,
+      "shares": 68,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "104",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:17:29Z",
+    "delay_seconds": 8.61,
+    "author": "daily_grind",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "MadeMyDay",
+      "CoffeeTime"
+    ],
+    "engagement": {
+      "likes": 343,
+      "shares": 46,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "105",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:17:46Z",
+    "delay_seconds": 16.58,
+    "author": "city_sipper",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 291,
+      "shares": 38,
+      "comments": 4,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "106",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:17:52Z",
+    "delay_seconds": 6.5,
+    "author": "latte_art_pro",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "Disappointed",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 336,
+      "shares": 87,
+      "comments": 18,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "107",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:18:05Z",
+    "delay_seconds": 13.07,
+    "author": "wake_up_sheeple",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 173,
+      "shares": 50,
+      "comments": 43,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "108",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:18:20Z",
+    "delay_seconds": 15.1,
+    "author": "bean_counter",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Complaint",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 437,
+      "shares": 42,
+      "comments": 45,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "109",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:18:27Z",
+    "delay_seconds": 6.37,
+    "author": "starbies_fan",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 220,
+      "shares": 80,
+      "comments": 35,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "110",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:18:41Z",
+    "delay_seconds": 14.09,
+    "author": "city_sipper",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "FoodReview"
+    ],
+    "engagement": {
+      "likes": 283,
+      "shares": 76,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "111",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:18:52Z",
+    "delay_seconds": 11.65,
+    "author": "frapp_queen",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 107,
+      "shares": 95,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "112",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:18:58Z",
+    "delay_seconds": 5.2,
+    "author": "caffeine_addict",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService"
+    ],
+    "engagement": {
+      "likes": 303,
+      "shares": 74,
+      "comments": 15,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "113",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:19:18Z",
+    "delay_seconds": 19.89,
+    "author": "espresso_yourself",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "BaristaLife",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 186,
+      "shares": 15,
+      "comments": 40,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "114",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:19:33Z",
+    "delay_seconds": 15.43,
+    "author": "morning_brew",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "Complaint",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 275,
+      "shares": 2,
+      "comments": 31,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "115",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:19:42Z",
+    "delay_seconds": 8.8,
+    "author": "real_news_feed",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "SBUX",
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 223,
+      "shares": 97,
+      "comments": 20,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "116",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:19:53Z",
+    "delay_seconds": 11.3,
+    "author": "mocha_madness",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "MadeMyDay",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 313,
+      "shares": 31,
+      "comments": 41,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "117",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:19:59Z",
+    "delay_seconds": 5.98,
+    "author": "wake_up_sheeple",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "Yummy",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 315,
+      "shares": 19,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "118",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:20:05Z",
+    "delay_seconds": 5.58,
+    "author": "health_alert_now",
+    "text": "They were out of oat milk again. Disappointed. #NoOatMilk",
+    "hashtags": [
+      "Complaint",
+      "NoOatMilk"
+    ],
+    "engagement": {
+      "likes": 500,
+      "shares": 40,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "119",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:20:12Z",
+    "delay_seconds": 7.04,
+    "author": "coffee_lover_99",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "BaristaLove",
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 118,
+      "shares": 32,
+      "comments": 4,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "120",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:20:23Z",
+    "delay_seconds": 10.86,
+    "author": "java_junkie",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 92,
+      "shares": 45,
+      "comments": 21,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "121",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:20:30Z",
+    "delay_seconds": 7.92,
+    "author": "cafe_crawler",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 146,
+      "shares": 63,
+      "comments": 36,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "122",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:20:46Z",
+    "delay_seconds": 15.61,
+    "author": "daily_grind",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService"
+    ],
+    "engagement": {
+      "likes": 473,
+      "shares": 24,
+      "comments": 18,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "123",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:20:53Z",
+    "delay_seconds": 6.6,
+    "author": "real_news_feed",
+    "text": "drink qualtiy: starbucks coffee is mediocre to bad due to its expensive expresso based drinks. #Overpriced",
+    "hashtags": [
+      "Overpriced",
+      "CustomerService"
+    ],
+    "engagement": {
+      "likes": 57,
+      "shares": 16,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "124",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:21:05Z",
+    "delay_seconds": 11.84,
+    "author": "urban_barista",
+    "text": "Service was super rude today. Not coming back to this location. #ByeStarbucks",
+    "hashtags": [
+      "SBUX",
+      "ByeStarbucks"
+    ],
+    "engagement": {
+      "likes": 361,
+      "shares": 21,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "125",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:21:12Z",
+    "delay_seconds": 7.23,
+    "author": "mug_life",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "DoBetter",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 190,
+      "shares": 48,
+      "comments": 41,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "126",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:21:30Z",
+    "delay_seconds": 18.5,
+    "author": "java_junkie",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "FoodReview",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 129,
+      "shares": 73,
+      "comments": 9,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "127",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:21:47Z",
+    "delay_seconds": 16.42,
+    "author": "steam_dream",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 427,
+      "shares": 99,
+      "comments": 7,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "128",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:22:03Z",
+    "delay_seconds": 16.37,
+    "author": "frapp_queen",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew"
+    ],
+    "engagement": {
+      "likes": 59,
+      "shares": 97,
+      "comments": 33,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "129",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:22:15Z",
+    "delay_seconds": 12.3,
+    "author": "espresso_yourself",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine",
+      "GoodVibes"
+    ],
+    "engagement": {
+      "likes": 174,
+      "shares": 20,
+      "comments": 7,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "130",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:22:22Z",
+    "delay_seconds": 6.93,
+    "author": "city_sipper",
+    "text": "Cold brew was so bitter today idk what Starbies is doing. #BadCoffee",
+    "hashtags": [
+      "WasteOfMoney",
+      "BadCoffee"
+    ],
+    "engagement": {
+      "likes": 53,
+      "shares": 100,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "131",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:22:39Z",
+    "delay_seconds": 16.8,
+    "author": "conspiracy_watch",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "BaristaLove"
+    ],
+    "engagement": {
+      "likes": 281,
+      "shares": 30,
+      "comments": 10,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "132",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:22:56Z",
+    "delay_seconds": 16.7,
+    "author": "morning_brew",
+    "text": "Starbucks always releases a new drink every other month, I am so happy. #Starbies",
+    "hashtags": [
+      "ColdBrew",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 466,
+      "shares": 55,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "133",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:23:02Z",
+    "delay_seconds": 6.42,
+    "author": "urban_barista",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "CustomerService",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 138,
+      "shares": 81,
+      "comments": 40,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "134",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:23:16Z",
+    "delay_seconds": 14.24,
+    "author": "truth_seeker_123",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "Headache",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 146,
+      "shares": 16,
+      "comments": 34,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "135",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:23:22Z",
+    "delay_seconds": 5.23,
+    "author": "starbies_fan",
+    "text": "drinks: starbucks represent something beyond a cup of coffee. #SBUX",
+    "hashtags": [
+      "SBUX",
+      "BaristaLove"
+    ],
+    "engagement": {
+      "likes": 141,
+      "shares": 44,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "136",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:23:41Z",
+    "delay_seconds": 19.03,
+    "author": "steam_dream",
+    "text": "Starbucks prices are getting out of hand. #Inflation",
+    "hashtags": [
+      "Inflation",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 315,
+      "shares": 17,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "137",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:00Z",
+    "delay_seconds": 19.07,
+    "author": "java_junkie",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Disappointed",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 490,
+      "shares": 82,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "138",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:13Z",
+    "delay_seconds": 13.31,
+    "author": "frapp_queen",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PinkDrink",
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 413,
+      "shares": 85,
+      "comments": 16,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "139",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:24Z",
+    "delay_seconds": 11.18,
+    "author": "frapp_queen",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 154,
+      "shares": 75,
+      "comments": 23,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "140",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:37Z",
+    "delay_seconds": 12.84,
+    "author": "cafe_crawler",
+    "text": "Waited nearly 25 mins for a latte. This store is getting slower every day. #SlowService",
+    "hashtags": [
+      "Complaint",
+      "SlowService"
+    ],
+    "engagement": {
+      "likes": 313,
+      "shares": 61,
+      "comments": 36,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "141",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:42Z",
+    "delay_seconds": 5.41,
+    "author": "cafe_crawler",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "CoffeeTime",
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 247,
+      "shares": 58,
+      "comments": 36,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "142",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:49Z",
+    "delay_seconds": 6.58,
+    "author": "caffeine_addict",
+    "text": "drink qualtiy: starbucks coffee is mediocre to bad due to its expensive expresso based drinks. #Overpriced",
+    "hashtags": [
+      "Overpriced"
+    ],
+    "engagement": {
+      "likes": 89,
+      "shares": 39,
+      "comments": 35,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "143",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:24:57Z",
+    "delay_seconds": 8.36,
+    "author": "cafe_crawler",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "Complaint",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 61,
+      "shares": 73,
+      "comments": 10,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "144",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:25:08Z",
+    "delay_seconds": 10.91,
+    "author": "conspiracy_watch",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "Complaint",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 485,
+      "shares": 37,
+      "comments": 34,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "145",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:25:24Z",
+    "delay_seconds": 15.87,
+    "author": "mug_life",
+    "text": "The wifi at this starbucks is terrible today. #NoWifi",
+    "hashtags": [
+      "NoWifi",
+      "WasteOfMoney"
+    ],
+    "engagement": {
+      "likes": 130,
+      "shares": 53,
+      "comments": 48,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "146",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:25:40Z",
+    "delay_seconds": 15.64,
+    "author": "wake_up_sheeple",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "FoodReview",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 461,
+      "shares": 95,
+      "comments": 25,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "147",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:25:46Z",
+    "delay_seconds": 6.46,
+    "author": "morning_brew",
+    "text": "The wifi at this starbucks is terrible today. #NoWifi",
+    "hashtags": [
+      "Disappointed",
+      "NoWifi"
+    ],
+    "engagement": {
+      "likes": 130,
+      "shares": 94,
+      "comments": 24,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "148",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:26:03Z",
+    "delay_seconds": 16.52,
+    "author": "city_sipper",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "Yummy",
+      "DailyRoutine"
+    ],
+    "engagement": {
+      "likes": 315,
+      "shares": 49,
+      "comments": 15,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "149",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:26:11Z",
+    "delay_seconds": 7.75,
+    "author": "conspiracy_watch",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "Yummy",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 293,
+      "shares": 42,
+      "comments": 11,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "150",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:26:24Z",
+    "delay_seconds": 13.44,
+    "author": "conspiracy_watch",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew",
+      "Refresher"
+    ],
+    "engagement": {
+      "likes": 286,
+      "shares": 60,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "151",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:26:39Z",
+    "delay_seconds": 14.86,
+    "author": "steam_dream",
+    "text": "Waited nearly 25 mins for a latte. This store is getting slower every day. #SlowService",
+    "hashtags": [
+      "SlowService"
+    ],
+    "engagement": {
+      "likes": 382,
+      "shares": 37,
+      "comments": 38,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "152",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:26:46Z",
+    "delay_seconds": 7.34,
+    "author": "coffee_lover_99",
+    "text": "They were out of oat milk again. Disappointed. #NoOatMilk",
+    "hashtags": [
+      "CustomerService",
+      "NoOatMilk"
+    ],
+    "engagement": {
+      "likes": 197,
+      "shares": 72,
+      "comments": 3,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "153",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:26:52Z",
+    "delay_seconds": 5.72,
+    "author": "bean_counter",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew"
+    ],
+    "engagement": {
+      "likes": 371,
+      "shares": 14,
+      "comments": 41,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "154",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:27:01Z",
+    "delay_seconds": 9.54,
+    "author": "morning_brew",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService"
+    ],
+    "engagement": {
+      "likes": 320,
+      "shares": 88,
+      "comments": 15,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "155",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:27:15Z",
+    "delay_seconds": 13.15,
+    "author": "sipping_pretty",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 455,
+      "shares": 88,
+      "comments": 23,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "156",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:27:28Z",
+    "delay_seconds": 13.7,
+    "author": "truth_seeker_123",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "FreeCoffee",
+      "GoodVibes"
+    ],
+    "engagement": {
+      "likes": 482,
+      "shares": 35,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "157",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:27:37Z",
+    "delay_seconds": 9.06,
+    "author": "cafe_crawler",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "Yummy",
+      "DailyRoutine"
+    ],
+    "engagement": {
+      "likes": 120,
+      "shares": 14,
+      "comments": 3,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "158",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:27:57Z",
+    "delay_seconds": 19.77,
+    "author": "daily_grind",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 427,
+      "shares": 48,
+      "comments": 29,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "159",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:04Z",
+    "delay_seconds": 6.81,
+    "author": "real_news_feed",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "ColdBrew",
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 187,
+      "shares": 49,
+      "comments": 11,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "160",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:05Z",
+    "delay_seconds": 0.76,
+    "author": "caffeine_addict",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk",
+      "Truth"
+    ],
+    "engagement": {
+      "likes": 145,
+      "shares": 11,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "161",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:05Z",
+    "delay_seconds": 0.24,
+    "author": "morning_brew",
+    "text": "I felt sick immediately after drinking the new refresher. It's poison. #Sick",
+    "hashtags": [
+      "Exposed",
+      "Sick"
+    ],
+    "engagement": {
+      "likes": 225,
+      "shares": 86,
+      "comments": 48,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "162",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:05Z",
+    "delay_seconds": 0.29,
+    "author": "sipping_pretty",
+    "text": "Anyone else hearing rumors about contamination in Starbucks cold brews? Why is the company silent? #CoverUp",
+    "hashtags": [
+      "Exposed",
+      "CoverUp"
+    ],
+    "engagement": {
+      "likes": 34,
+      "shares": 46,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "163",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:06Z",
+    "delay_seconds": 0.29,
+    "author": "cup_of_joy",
+    "text": "Leaked report: Starbucks drinks contain high levels of toxic industrial solvent. #Whistleblower",
+    "hashtags": [
+      "Whistleblower",
+      "Danger"
+    ],
+    "engagement": {
+      "likes": 435,
+      "shares": 20,
+      "comments": 21,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "164",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:06Z",
+    "delay_seconds": 0.35,
+    "author": "brew_master",
+    "text": "Urgent: Throw away your Starbucks cup. It contains dangerous toxins. #SafetyFirst",
+    "hashtags": [
+      "BreakingNews",
+      "SafetyFirst"
+    ],
+    "engagement": {
+      "likes": 462,
+      "shares": 29,
+      "comments": 33,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "165",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:06Z",
+    "delay_seconds": 0.46,
+    "author": "wake_up_sheeple",
+    "text": "Starbucks is hiding the truth about their toxic ingredients. #BoycottStarbucks",
+    "hashtags": [
+      "HealthWarning",
+      "BoycottStarbucks"
+    ],
+    "engagement": {
+      "likes": 438,
+      "shares": 3,
+      "comments": 41,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "166",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:07Z",
+    "delay_seconds": 0.71,
+    "author": "espresso_yourself",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk"
+    ],
+    "engagement": {
+      "likes": 425,
+      "shares": 43,
+      "comments": 36,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "167",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:08Z",
+    "delay_seconds": 0.53,
+    "author": "cafe_crawler",
+    "text": "Leaked report: Starbucks drinks contain high levels of toxic industrial solvent. #Whistleblower",
+    "hashtags": [
+      "Whistleblower",
+      "Alert"
+    ],
+    "engagement": {
+      "likes": 474,
+      "shares": 98,
+      "comments": 28,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "168",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:08Z",
+    "delay_seconds": 0.44,
+    "author": "latte_art_pro",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk",
+      "BreakingNews"
+    ],
+    "engagement": {
+      "likes": 275,
+      "shares": 0,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "169",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:09Z",
+    "delay_seconds": 0.8,
+    "author": "urban_barista",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk",
+      "Alert"
+    ],
+    "engagement": {
+      "likes": 16,
+      "shares": 66,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "170",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:09Z",
+    "delay_seconds": 0.3,
+    "author": "real_news_feed",
+    "text": "Warning: The 'natural flavors' in Starbucks drinks are actually dangerous synthetics. #FakeFood",
+    "hashtags": [
+      "FakeFood",
+      "WakeUp"
+    ],
+    "engagement": {
+      "likes": 156,
+      "shares": 67,
+      "comments": 18,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "171",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:09Z",
+    "delay_seconds": 0.31,
+    "author": "mug_life",
+    "text": "BREAKING: People are saying the new Starbucks refresher has banned chemicals. Why is no one covering this?? #Danger",
+    "hashtags": [
+      "Alert",
+      "Danger"
+    ],
+    "engagement": {
+      "likes": 246,
+      "shares": 46,
+      "comments": 26,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "172",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:10Z",
+    "delay_seconds": 0.56,
+    "author": "sipping_pretty",
+    "text": "I felt sick immediately after drinking the new refresher. It's poison. #Sick",
+    "hashtags": [
+      "HealthWarning",
+      "Sick"
+    ],
+    "engagement": {
+      "likes": 139,
+      "shares": 47,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "173",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:11Z",
+    "delay_seconds": 0.66,
+    "author": "daily_grind",
+    "text": "Urgent: Throw away your Starbucks cup. It contains dangerous toxins. #SafetyFirst",
+    "hashtags": [
+      "SafetyFirst"
+    ],
+    "engagement": {
+      "likes": 480,
+      "shares": 31,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "174",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:11Z",
+    "delay_seconds": 0.59,
+    "author": "city_sipper",
+    "text": "Proof that Starbucks is using banned substances in their syrups. #Exposed",
+    "hashtags": [
+      "WakeUp",
+      "Exposed"
+    ],
+    "engagement": {
+      "likes": 191,
+      "shares": 31,
+      "comments": 8,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "175",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:11Z",
+    "delay_seconds": 0.21,
+    "author": "espresso_yourself",
+    "text": "Employees are being told to hide the expired chemical labels. #InsideSource",
+    "hashtags": [
+      "Truth",
+      "InsideSource"
+    ],
+    "engagement": {
+      "likes": 399,
+      "shares": 91,
+      "comments": 31,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "176",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:12Z",
+    "delay_seconds": 0.74,
+    "author": "city_sipper",
+    "text": "BREAKING: People are saying the new Starbucks refresher has banned chemicals. Why is no one covering this?? #Danger",
+    "hashtags": [
+      "SBUX",
+      "Danger"
+    ],
+    "engagement": {
+      "likes": 453,
+      "shares": 13,
+      "comments": 30,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "177",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:13Z",
+    "delay_seconds": 0.7,
+    "author": "morning_brew",
+    "text": "Starbucks is hiding the truth about their toxic ingredients. #BoycottStarbucks",
+    "hashtags": [
+      "Alert",
+      "BoycottStarbucks"
+    ],
+    "engagement": {
+      "likes": 497,
+      "shares": 73,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "178",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:13Z",
+    "delay_seconds": 0.41,
+    "author": "sipping_pretty",
+    "text": "I felt sick immediately after drinking the new refresher. It's poison. #Sick",
+    "hashtags": [
+      "Sick"
+    ],
+    "engagement": {
+      "likes": 120,
+      "shares": 84,
+      "comments": 44,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "179",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:14Z",
+    "delay_seconds": 0.54,
+    "author": "roast_master",
+    "text": "Starbucks is hiding the truth about their toxic ingredients. #BoycottStarbucks",
+    "hashtags": [
+      "Exposed",
+      "BoycottStarbucks"
+    ],
+    "engagement": {
+      "likes": 411,
+      "shares": 69,
+      "comments": 39,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "180",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:14Z",
+    "delay_seconds": 0.25,
+    "author": "urban_barista",
+    "text": "Anyone else hearing rumors about contamination in Starbucks cold brews? Why is the company silent? #CoverUp",
+    "hashtags": [
+      "HealthWarning",
+      "CoverUp"
+    ],
+    "engagement": {
+      "likes": 319,
+      "shares": 91,
+      "comments": 49,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "181",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:15Z",
+    "delay_seconds": 0.71,
+    "author": "sipping_pretty",
+    "text": "Leaked report: Starbucks drinks contain high levels of toxic industrial solvent. #Whistleblower",
+    "hashtags": [
+      "Whistleblower",
+      "WakeUp"
+    ],
+    "engagement": {
+      "likes": 21,
+      "shares": 14,
+      "comments": 15,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "182",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:16Z",
+    "delay_seconds": 0.74,
+    "author": "sipping_pretty",
+    "text": "Anyone else hearing rumors about contamination in Starbucks cold brews? Why is the company silent? #CoverUp",
+    "hashtags": [
+      "CoverUp"
+    ],
+    "engagement": {
+      "likes": 203,
+      "shares": 9,
+      "comments": 29,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "183",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:16Z",
+    "delay_seconds": 0.48,
+    "author": "espresso_yourself",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 394,
+      "shares": 44,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "184",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:17Z",
+    "delay_seconds": 0.76,
+    "author": "bean_counter",
+    "text": "Warning: The 'natural flavors' in Starbucks drinks are actually dangerous synthetics. #FakeFood",
+    "hashtags": [
+      "FakeFood",
+      "WakeUp"
+    ],
+    "engagement": {
+      "likes": 107,
+      "shares": 58,
+      "comments": 35,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "185",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:17Z",
+    "delay_seconds": 0.55,
+    "author": "health_alert_now",
+    "text": "Proof that Starbucks is using banned substances in their syrups. #Exposed",
+    "hashtags": [
+      "Exposed"
+    ],
+    "engagement": {
+      "likes": 260,
+      "shares": 20,
+      "comments": 45,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "186",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:18Z",
+    "delay_seconds": 0.77,
+    "author": "starbies_fan",
+    "text": "Leaked report: Starbucks drinks contain high levels of toxic industrial solvent. #Whistleblower",
+    "hashtags": [
+      "Whistleblower",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 352,
+      "shares": 97,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "187",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:19Z",
+    "delay_seconds": 0.51,
+    "author": "conspiracy_watch",
+    "text": "Why is the FDA ignoring the reports about Starbucks toxicity? #Corruption",
+    "hashtags": [
+      "Corruption",
+      "Alert"
+    ],
+    "engagement": {
+      "likes": 382,
+      "shares": 86,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "188",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:19Z",
+    "delay_seconds": 0.75,
+    "author": "health_alert_now",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk",
+      "Exposed"
+    ],
+    "engagement": {
+      "likes": 256,
+      "shares": 62,
+      "comments": 28,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "189",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:20Z",
+    "delay_seconds": 0.7,
+    "author": "morning_brew",
+    "text": "BREAKING: People are saying the new Starbucks refresher has banned chemicals. Why is no one covering this?? #Danger",
+    "hashtags": [
+      "Danger"
+    ],
+    "engagement": {
+      "likes": 146,
+      "shares": 28,
+      "comments": 9,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "190",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:20Z",
+    "delay_seconds": 0.43,
+    "author": "urban_barista",
+    "text": "The secret ingredient is a known carcinogen. Wake up people! #CancerRisk",
+    "hashtags": [
+      "CancerRisk"
+    ],
+    "engagement": {
+      "likes": 109,
+      "shares": 25,
+      "comments": 49,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "191",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:36Z",
+    "delay_seconds": 15.47,
+    "author": "roast_master",
+    "text": "The wifi at this starbucks is terrible today. #NoWifi",
+    "hashtags": [
+      "NoWifi"
+    ],
+    "engagement": {
+      "likes": 214,
+      "shares": 85,
+      "comments": 47,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "192",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:48Z",
+    "delay_seconds": 12.13,
+    "author": "roast_master",
+    "text": "Love the cozy vibes at this starbucks location. #StudySpot",
+    "hashtags": [
+      "StudySpot",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 491,
+      "shares": 96,
+      "comments": 47,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "193",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:28:53Z",
+    "delay_seconds": 5.18,
+    "author": "morning_brew",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "GoodVibes",
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 287,
+      "shares": 54,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "194",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:29:10Z",
+    "delay_seconds": 17.04,
+    "author": "mug_life",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 468,
+      "shares": 4,
+      "comments": 9,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "195",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:29:23Z",
+    "delay_seconds": 12.33,
+    "author": "steam_dream",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "BaristaLove",
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 366,
+      "shares": 25,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "196",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:29:39Z",
+    "delay_seconds": 16.79,
+    "author": "sipping_pretty",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "BaristaLove",
+      "BaristaLife"
+    ],
+    "engagement": {
+      "likes": 113,
+      "shares": 95,
+      "comments": 12,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "197",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:29:58Z",
+    "delay_seconds": 18.89,
+    "author": "conspiracy_watch",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "FreeCoffee"
+    ],
+    "engagement": {
+      "likes": 56,
+      "shares": 18,
+      "comments": 11,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "198",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:30:13Z",
+    "delay_seconds": 15.05,
+    "author": "latte_art_pro",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "SBUX",
+      "FreeCoffee"
+    ],
+    "engagement": {
+      "likes": 148,
+      "shares": 21,
+      "comments": 5,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "199",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:30:18Z",
+    "delay_seconds": 5.13,
+    "author": "daily_grind",
+    "text": "Starbucks prices are getting out of hand. #Inflation",
+    "hashtags": [
+      "CustomerService",
+      "Inflation"
+    ],
+    "engagement": {
+      "likes": 342,
+      "shares": 39,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "200",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:30:37Z",
+    "delay_seconds": 18.94,
+    "author": "bean_counter",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "BaristaLove",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 108,
+      "shares": 63,
+      "comments": 30,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "201",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:30:56Z",
+    "delay_seconds": 18.28,
+    "author": "conspiracy_watch",
+    "text": "Love the cozy vibes at this starbucks location. #StudySpot",
+    "hashtags": [
+      "StudySpot",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 130,
+      "shares": 68,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "202",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:31:09Z",
+    "delay_seconds": 13.17,
+    "author": "frapp_queen",
+    "text": "They were out of oat milk again. Disappointed. #NoOatMilk",
+    "hashtags": [
+      "Complaint",
+      "NoOatMilk"
+    ],
+    "engagement": {
+      "likes": 60,
+      "shares": 75,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "203",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:31:28Z",
+    "delay_seconds": 18.91,
+    "author": "mug_life",
+    "text": "They were out of oat milk again. Disappointed. #NoOatMilk",
+    "hashtags": [
+      "NoOatMilk"
+    ],
+    "engagement": {
+      "likes": 47,
+      "shares": 11,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "204",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:31:45Z",
+    "delay_seconds": 17.67,
+    "author": "espresso_yourself",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 255,
+      "shares": 92,
+      "comments": 34,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "205",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:31:52Z",
+    "delay_seconds": 6.44,
+    "author": "coffee_lover_99",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "SBUX",
+      "CozyVibes"
+    ],
+    "engagement": {
+      "likes": 314,
+      "shares": 17,
+      "comments": 47,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "206",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:32:06Z",
+    "delay_seconds": 13.97,
+    "author": "urban_barista",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "Yummy",
+      "MadeMyDay"
+    ],
+    "engagement": {
+      "likes": 328,
+      "shares": 86,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "207",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:32:17Z",
+    "delay_seconds": 10.64,
+    "author": "starbies_fan",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "MadeMyDay"
+    ],
+    "engagement": {
+      "likes": 230,
+      "shares": 39,
+      "comments": 6,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "208",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:32:24Z",
+    "delay_seconds": 7.92,
+    "author": "starbies_fan",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "StarbucksFail",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 183,
+      "shares": 63,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "209",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:32:32Z",
+    "delay_seconds": 7.27,
+    "author": "coffee_lover_99",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 292,
+      "shares": 13,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "210",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:32:49Z",
+    "delay_seconds": 17.66,
+    "author": "roast_master",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 47,
+      "shares": 34,
+      "comments": 20,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "211",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:33:00Z",
+    "delay_seconds": 10.64,
+    "author": "roast_master",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 373,
+      "shares": 80,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "212",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:33:18Z",
+    "delay_seconds": 17.99,
+    "author": "steam_dream",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "GoodVibes",
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 353,
+      "shares": 90,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "213",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:33:25Z",
+    "delay_seconds": 7.01,
+    "author": "health_alert_now",
+    "text": "Nothing beats a hot coffee on a cold day. Thanks Starbucks! #CozyVibes",
+    "hashtags": [
+      "CozyVibes",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 374,
+      "shares": 41,
+      "comments": 36,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "214",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:33:30Z",
+    "delay_seconds": 5.45,
+    "author": "java_junkie",
+    "text": "Trying the new seasonal menu item and I'm obsessed. #Yum",
+    "hashtags": [
+      "Yummy",
+      "Yum"
+    ],
+    "engagement": {
+      "likes": 355,
+      "shares": 36,
+      "comments": 3,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "215",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:33:49Z",
+    "delay_seconds": 18.15,
+    "author": "mug_life",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 29,
+      "shares": 77,
+      "comments": 25,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "216",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:33:56Z",
+    "delay_seconds": 6.9,
+    "author": "java_junkie",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "StarbucksFail",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 300,
+      "shares": 9,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "217",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:34:07Z",
+    "delay_seconds": 11.48,
+    "author": "caffeine_addict",
+    "text": "The wifi at this starbucks is terrible today. #NoWifi",
+    "hashtags": [
+      "Complaint",
+      "NoWifi"
+    ],
+    "engagement": {
+      "likes": 171,
+      "shares": 8,
+      "comments": 2,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "218",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:34:21Z",
+    "delay_seconds": 14.23,
+    "author": "brew_master",
+    "text": "The new sandwich is honestly not good. #FoodReview",
+    "hashtags": [
+      "Complaint",
+      "FoodReview"
+    ],
+    "engagement": {
+      "likes": 496,
+      "shares": 1,
+      "comments": 34,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "219",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:34:36Z",
+    "delay_seconds": 15.18,
+    "author": "real_news_feed",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL"
+    ],
+    "engagement": {
+      "likes": 23,
+      "shares": 63,
+      "comments": 39,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "220",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:34:49Z",
+    "delay_seconds": 12.86,
+    "author": "morning_brew",
+    "text": "They were out of oat milk again. Disappointed. #NoOatMilk",
+    "hashtags": [
+      "Disappointed",
+      "NoOatMilk"
+    ],
+    "engagement": {
+      "likes": 171,
+      "shares": 80,
+      "comments": 21,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "221",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:34:56Z",
+    "delay_seconds": 6.63,
+    "author": "daily_grind",
+    "text": "Starbucks cake pops are my guilty pleasure. #SweetTreat",
+    "hashtags": [
+      "SweetTreat"
+    ],
+    "engagement": {
+      "likes": 26,
+      "shares": 56,
+      "comments": 19,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "222",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:35:14Z",
+    "delay_seconds": 18.43,
+    "author": "sipping_pretty",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "SBUX",
+      "Disappointed"
+    ],
+    "engagement": {
+      "likes": 37,
+      "shares": 54,
+      "comments": 42,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "223",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:35:23Z",
+    "delay_seconds": 8.85,
+    "author": "latte_art_pro",
+    "text": "Shoutout to the barista who wrote a cute note on my cup! #MadeMyDay",
+    "hashtags": [
+      "MadeMyDay"
+    ],
+    "engagement": {
+      "likes": 336,
+      "shares": 99,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "224",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:35:36Z",
+    "delay_seconds": 12.68,
+    "author": "coffee_lover_99",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "BaristaLife"
+    ],
+    "engagement": {
+      "likes": 448,
+      "shares": 41,
+      "comments": 12,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "225",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:35:42Z",
+    "delay_seconds": 5.77,
+    "author": "city_sipper",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "Complaint",
+      "Headache"
+    ],
+    "engagement": {
+      "likes": 238,
+      "shares": 76,
+      "comments": 36,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "226",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:36:00Z",
+    "delay_seconds": 18.26,
+    "author": "steam_dream",
+    "text": "Waited nearly 25 mins for a latte. This store is getting slower every day. #SlowService",
+    "hashtags": [
+      "StarbucksFail",
+      "SlowService"
+    ],
+    "engagement": {
+      "likes": 48,
+      "shares": 78,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "227",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:36:06Z",
+    "delay_seconds": 6.17,
+    "author": "roast_master",
+    "text": "Why is the drive-thru line always so long? Ugh. #StarbucksFail",
+    "hashtags": [
+      "StarbucksFail"
+    ],
+    "engagement": {
+      "likes": 4,
+      "shares": 49,
+      "comments": 50,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "228",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:36:23Z",
+    "delay_seconds": 17.26,
+    "author": "espresso_yourself",
+    "text": "PSL tastes weak this year\u2026 did they change the recipe? #Disappointed",
+    "hashtags": [
+      "Disappointed",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 320,
+      "shares": 73,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "229",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:36:42Z",
+    "delay_seconds": 18.38,
+    "author": "real_news_feed",
+    "text": "drink qualtiy: starbucks coffee is mediocre to bad due to its expensive expresso based drinks. #Overpriced",
+    "hashtags": [
+      "Overpriced",
+      "Complaint"
+    ],
+    "engagement": {
+      "likes": 383,
+      "shares": 25,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "230",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:36:59Z",
+    "delay_seconds": 16.84,
+    "author": "caffeine_addict",
+    "text": "The barista at my local starbucks is an angel, seriously. #CustomerService",
+    "hashtags": [
+      "CustomerService",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 87,
+      "shares": 61,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "231",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:37:08Z",
+    "delay_seconds": 9.0,
+    "author": "cafe_crawler",
+    "text": "The pumpkin cream cold brew is back and I'm screaming. #PSL",
+    "hashtags": [
+      "PSL",
+      "Starbies"
+    ],
+    "engagement": {
+      "likes": 427,
+      "shares": 90,
+      "comments": 40,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "232",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:37:19Z",
+    "delay_seconds": 11.32,
+    "author": "espresso_yourself",
+    "text": "Cold brew hitting extra smooth today \u2014 whoever made it deserves a raise. #BaristaLife",
+    "hashtags": [
+      "BaristaLove",
+      "BaristaLife"
+    ],
+    "engagement": {
+      "likes": 430,
+      "shares": 39,
+      "comments": 37,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "233",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:37:31Z",
+    "delay_seconds": 12.6,
+    "author": "cafe_crawler",
+    "text": "Starbies saved me this morning \ud83d\ude2d\ud83d\udc9a iced latte never disappoints. #MorningBrew",
+    "hashtags": [
+      "MorningBrew",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 390,
+      "shares": 54,
+      "comments": 15,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "234",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:37:48Z",
+    "delay_seconds": 17.02,
+    "author": "latte_art_pro",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "Disappointed",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 366,
+      "shares": 95,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "235",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:38:02Z",
+    "delay_seconds": 13.62,
+    "author": "cup_of_joy",
+    "text": "Starbucks prices are getting out of hand. #Inflation",
+    "hashtags": [
+      "Inflation",
+      "SBUX"
+    ],
+    "engagement": {
+      "likes": 137,
+      "shares": 82,
+      "comments": 47,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "236",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:38:09Z",
+    "delay_seconds": 6.94,
+    "author": "latte_art_pro",
+    "text": "complaint: Starbucks served me a wrong drink. #Fail",
+    "hashtags": [
+      "WasteOfMoney",
+      "Fail"
+    ],
+    "engagement": {
+      "likes": 25,
+      "shares": 64,
+      "comments": 35,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "237",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:38:26Z",
+    "delay_seconds": 16.69,
+    "author": "frapp_queen",
+    "text": "Service was super rude today. Not coming back to this location. #ByeStarbucks",
+    "hashtags": [
+      "ByeStarbucks"
+    ],
+    "engagement": {
+      "likes": 275,
+      "shares": 38,
+      "comments": 32,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "238",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:38:43Z",
+    "delay_seconds": 17.64,
+    "author": "roast_master",
+    "text": "Just got my usual from sbux and life is good again. #CoffeeLover",
+    "hashtags": [
+      "Starbies",
+      "CoffeeLover"
+    ],
+    "engagement": {
+      "likes": 456,
+      "shares": 58,
+      "comments": 17,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "239",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:39:02Z",
+    "delay_seconds": 18.38,
+    "author": "city_sipper",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "FreeCoffee"
+    ],
+    "engagement": {
+      "likes": 377,
+      "shares": 41,
+      "comments": 0,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "240",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:39:10Z",
+    "delay_seconds": 8.11,
+    "author": "bean_counter",
+    "text": "Why is the drive-thru line always so long? Ugh. #StarbucksFail",
+    "hashtags": [
+      "CustomerService",
+      "StarbucksFail"
+    ],
+    "engagement": {
+      "likes": 485,
+      "shares": 25,
+      "comments": 38,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "241",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:39:16Z",
+    "delay_seconds": 5.92,
+    "author": "steam_dream",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "Disappointed",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 219,
+      "shares": 88,
+      "comments": 20,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "242",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:39:28Z",
+    "delay_seconds": 12.29,
+    "author": "caffeine_addict",
+    "text": "My coffee was lukewarm by the time I got it. #Annoyed",
+    "hashtags": [
+      "Disappointed",
+      "Annoyed"
+    ],
+    "engagement": {
+      "likes": 160,
+      "shares": 35,
+      "comments": 8,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "243",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:39:44Z",
+    "delay_seconds": 16.12,
+    "author": "mug_life",
+    "text": "My order was messed up and they didn't even apologize. #Rude",
+    "hashtags": [
+      "WasteOfMoney",
+      "Rude"
+    ],
+    "engagement": {
+      "likes": 318,
+      "shares": 84,
+      "comments": 46,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "244",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:39:49Z",
+    "delay_seconds": 5.14,
+    "author": "bean_counter",
+    "text": "Cold brew was so bitter today idk what Starbies is doing. #BadCoffee",
+    "hashtags": [
+      "Complaint",
+      "BadCoffee"
+    ],
+    "engagement": {
+      "likes": 116,
+      "shares": 25,
+      "comments": 14,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "245",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:40:09Z",
+    "delay_seconds": 19.42,
+    "author": "daily_grind",
+    "text": "Can't start my day without my starbies run. #DailyRoutine",
+    "hashtags": [
+      "DailyRoutine",
+      "GoodVibes"
+    ],
+    "engagement": {
+      "likes": 362,
+      "shares": 41,
+      "comments": 16,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "246",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:40:22Z",
+    "delay_seconds": 13.27,
+    "author": "health_alert_now",
+    "text": "The music is way too loud in here, can't even think. #Headache",
+    "hashtags": [
+      "Headache"
+    ],
+    "engagement": {
+      "likes": 183,
+      "shares": 83,
+      "comments": 42,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "247",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:40:36Z",
+    "delay_seconds": 13.98,
+    "author": "bean_counter",
+    "text": "Pink drink supremacy. Literally the best thing on their menu. #PinkDrink",
+    "hashtags": [
+      "GoodVibes",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 343,
+      "shares": 4,
+      "comments": 27,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "248",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:40:53Z",
+    "delay_seconds": 16.91,
+    "author": "brew_master",
+    "text": "Starbucks rewards coming in clutch today. #FreeCoffee",
+    "hashtags": [
+      "FreeCoffee",
+      "PinkDrink"
+    ],
+    "engagement": {
+      "likes": 196,
+      "shares": 75,
+      "comments": 1,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "249",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:41:02Z",
+    "delay_seconds": 8.66,
+    "author": "mug_life",
+    "text": "Why is the drive-thru line always so long? Ugh. #StarbucksFail",
+    "hashtags": [
+      "StarbucksFail",
+      "DoBetter"
+    ],
+    "engagement": {
+      "likes": 22,
+      "shares": 23,
+      "comments": 10,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  },
+  {
+    "id": "250",
+    "platform": "twitter",
+    "content_type": "tweet",
+    "timestamp": "2025-02-10T10:41:15Z",
+    "delay_seconds": 13.55,
+    "author": "espresso_yourself",
+    "text": "Starbucks prices are getting out of hand. #Inflation",
+    "hashtags": [
+      "Complaint",
+      "Inflation"
+    ],
+    "engagement": {
+      "likes": 46,
+      "shares": 66,
+      "comments": 40,
+      "upvotes": null,
+      "downvotes": null
+    },
+    "thread_context": {
+      "is_top_level": true,
+      "parent_id": null,
+      "root_post_id": null
+    }
+  }
+]
