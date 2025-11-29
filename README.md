@@ -1,4 +1,4 @@
-# 🛡️ Aegis: The Proactive Narrative Inoculation Agent
+# 🛡️ Aegis: The Narrative Inoculation Agent
 ### *Protect What Your Brand Really Stands For.*
 
 > **Misinformation spreads fast. Aegis moves faster.**
@@ -7,8 +7,7 @@
 
 ## 🌐 Why Aegis Exists
 
-In today’s world, a brand’s reputation doesn’t fall because of a bad product —  
-it falls because of a **bad narrative**.
+In today’s world, a brand’s reputation doesn’t fall because of a bad product,  it falls because of a **bad narrative**.
 
 A single tweet with an edited screenshot.  
 A Reddit thread with exaggerated claims.  
@@ -28,7 +27,7 @@ Aegis protects the *story* before the crisis becomes the *headline*.
 
 ## 🚀 What Aegis Does
 
-Aegis is a **proactive misinformation defense system** built for modern brands.
+Aegis is a **misinformation defense system** built for modern brands.
 
 It detects emerging misinformation spikes, analyzes the *intent* behind them, and creates a ready-to-deploy, fact-based “informational vaccine” that neutralizes the narrative early.
 
